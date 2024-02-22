@@ -1,0 +1,16 @@
+var num1 = 5;
+var num2 = 3;
+var result = num1 + num2;
+console.log(num1, "+", num2, "=", result);
+var num3 = 10;
+var num4 = 2;
+var result2 = num3 - num4;
+console.log(num3, "-", num4, "=", result2);
+var num5 = 4;
+var num6 = 2;
+var result3 = num5 * num6;
+console.log(num5, "x", num6, "=", result3);
+var num7 = 16;
+var num8 = 2;
+var result4 = num7 / num8;
+console.log(num7, "/", num8, "=", result4);
